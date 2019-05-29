@@ -10,4 +10,4 @@ public class SpringEurekaAuthServiceApplication {
 		SpringApplication.run(SpringEurekaAuthServiceApplication.class, args);
 	}
 }
-//amarsang gohil checking elastic search
+//amarsang gohil checkingelastic search
